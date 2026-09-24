@@ -16,6 +16,9 @@ target/
 *.iml
 *.ipr
 
+# ⚠️ Protection du mot de passe MySQL
+src/main/resources/application.properties
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/

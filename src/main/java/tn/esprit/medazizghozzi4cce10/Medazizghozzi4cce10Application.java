@@ -5,9 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Medazizghozzi4cce10Application {
-
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         SpringApplication.run(Medazizghozzi4cce10Application.class, args);
     }
-
 }
